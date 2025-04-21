@@ -109,10 +109,3 @@ pip install sqlalchemy
 ```bash
 python main.py
 ```
-
----
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e sugestões.
-
